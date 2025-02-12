@@ -1,6 +1,6 @@
 # Deploying a React App to GitHub Pages
 
-## ![rocket](https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/lottie.json) Introduction
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Introduction
 This guide walks you through the process of deploying a **React.js** project to **GitHub Pages** in a few simple steps.
 
 ## 📌 Prerequisites
